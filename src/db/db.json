@@ -1,6 +1,32 @@
 {
-    "posts": [
-      { "id": 1, "title": "java-restaurant", "author": "maggie" },
-      { "id": 2, "title": "java-restaurant2", "author": "maggie2" }
-    ]
+  "restaurant":[
+  {
+  "id": 1,
+  "name": "Pizza Hut",
+  "address": "Pune",
+  "rating": "4.5",
+  "email": "pizzahut@test.com"
+  },
+  {
+  "id": 2,
+  "name": "MacDonald",
+  "address": "Mumbai",
+  "rating": "4.7",
+  "email": "MacDonalds@test.com"
+  },
+  {
+  "id": 3,
+  "name": "Sai Resto",
+  "address": "kolkota",
+  "rating": "4.1",
+  "email": "sai@test.com"
+  },
+  {
+  "id": 4,
+  "name": "BBQ nation",
+  "address": "Delhi",
+  "rating": "4.3",
+  "email": "bbq@test.com"
+  }
+  ]
   }
